@@ -5,6 +5,13 @@ This app demonstrates **BLoC state management**, **form validation**, and **API 
 
 ---
 
+## 🖼️Desktop Screenshots
+<img width="467" height="853" alt="image" src="https://github.com/user-attachments/assets/5538ac91-845f-4dbb-97c1-0ce19344620b" />
+
+<img width="466" height="852" alt="image" src="https://github.com/user-attachments/assets/cbdd4284-bb9f-4618-87c1-2275aeda8fc9" />
+
+---
+
 ## 🚀 Features
 
 ### 1. **Login Screen**
@@ -44,3 +51,4 @@ This app demonstrates **BLoC state management**, **form validation**, and **API 
    ```bash
    git clone https://github.com/your-username/findoc-flutter-assignment.git
    cd findoc-flutter-assignment
+
